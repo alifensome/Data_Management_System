@@ -1,0 +1,6 @@
+				RESULTS	
+This text file is here to store the results of all experiments for which values have been calculated.
+
+Experiment 1 2017_04_29_18_55_33
+Type1 Weighted mean = 9.98432 +/- 0.0870946
+Type2 Weighted mean = 20.1079 +/- 0.170898
